@@ -15,3 +15,7 @@ logo.png
 ^_pkgdown\.yml$
 ^doc$
 ^\.github$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
